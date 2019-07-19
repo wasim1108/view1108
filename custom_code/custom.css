@@ -1,0 +1,51 @@
+.container-register
+{
+	margin-top: 8%;	
+	}
+.container-login {
+	margin-top: 10%;
+}
+.heading-standard {
+	font-family: book-antiqua;
+}
+.well {
+	background: linear-gradient(to bottom, skyblue, #4f78f3);
+}
+.main-section {
+	min-height: 550px;
+	width: 600px;
+	margin: auto;	
+	border-radius: 20px;
+}
+.login-title {
+	border-bottom: 2px ridge #000;
+	margin-bottom: 30px;
+}
+
+.login-form {
+	width: 80%;
+	margin: auto;
+}
+.control-btn {
+	margin-top: 3rem;
+}				
+
+
+.section-login {
+	border: 2px solid orange;
+	width: 400px;
+	margin: auto;	
+	//border-radius: 5px;
+	padding: 40px;
+}
+
+.head-title{
+	margin-bottom: 25px;
+}
+
+.border-hr{
+	height: 5px;
+	width: 400px;
+	background: linear-gradient(to right, orange,blue, yellow, blue, orange);
+	margin: auto;
+}
